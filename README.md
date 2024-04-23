@@ -17,7 +17,7 @@ helm search repo minio-operator
 #### Setup Environment
 
 ```sh
-export ENVIRONMENT=dev
+export ENVIRONMENT=object-store
 export MINIO_RELEASE=minio
 ```
 
